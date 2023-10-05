@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, I am Pedro Henrique... ✌️
 
-<!--
-**PedroBello2023/PedroBello2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriqueufpa2018@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ALOET3AYAWCLM1)
+---
 
-Here are some ideas to get you started:
+![Pedro Git Hub States.](https://github-readme-stats.vercel.app/api?username=PedroBello2023&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBello2023&layout=compact)
+---
+## Technologies I currently know... 💻
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div><br/>
+
+## About Me...🤩
+* A future Computational Mathematician, passionate about science and technology, FullStack developer in training and a lover of Computer Science and enthusiast in the area of ​​programming and software development.
+
+* Um futuro Matemático Computacional, apaixonado por ciência e tecnologia, desenvolvedor FullStack em formação e um amante de Ciência da Computação e entusiasta da área de programação e desenvolvimento de software.
