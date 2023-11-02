@@ -7,7 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBello2023&layout=compact)
 
-![likedin](www.linkedin.com/in/pedro-henrique-martins-belo-b939b4299)
 ---
 ## Technologies I currently know... 💻
 
